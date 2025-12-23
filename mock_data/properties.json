@@ -1,0 +1,146 @@
+[
+  {
+    "id": "prop_001",
+    "title": "บ้านริมทะเล หัวหิน",
+    "description": "บ้านพักตากอากาศริมทะเล วิวสวย ใกล้หาดเพียง 50 เมตร เหมาะสำหรับครอบครัวและกลุ่มเพื่อน",
+    "location": "หัวหิน, ประจวบคีรีขันธ์",
+    "price_per_night": 4500,
+    "sale_price": null,
+    "listing_type": "rent",
+    "rating": 4.8,
+    "review_count": 124,
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "max_guests": 6,
+    "amenities": ["wifi", "pool", "parking", "air_conditioning", "kitchen"],
+    "host": {
+      "name": "คุณสมชาย",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "is_superhost": true
+    }
+  },
+  {
+    "id": "prop_002",
+    "title": "คอนโดหรู สุขุมวิท",
+    "description": "คอนโดมิเนียมหรูใจกลางเมือง ใกล้ BTS อโศก ตกแต่งครบ พร้อมเข้าอยู่",
+    "location": "สุขุมวิท, กรุงเทพ",
+    "price_per_night": 2800,
+    "sale_price": 8500000,
+    "listing_type": "both",
+    "rating": 4.6,
+    "review_count": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["wifi", "gym", "security", "air_conditioning"],
+    "host": {
+      "name": "คุณนภา",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "is_superhost": false
+    }
+  },
+  {
+    "id": "prop_003",
+    "title": "บ้านไม้สไตล์ล้านนา",
+    "description": "บ้านไม้สักแท้สไตล์ล้านนา บรรยากาศร่มรื่น ท่ามกลางธรรมชาติ เหมาะสำหรับการพักผ่อน",
+    "location": "แม่ริม, เชียงใหม่",
+    "price_per_night": 3200,
+    "sale_price": null,
+    "listing_type": "rent",
+    "rating": 4.9,
+    "review_count": 256,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800"
+    ],
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "max_guests": 4,
+    "amenities": ["wifi", "garden", "parking", "breakfast"],
+    "host": {
+      "name": "คุณแก้ว",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "is_superhost": true
+    }
+  },
+  {
+    "id": "prop_004",
+    "title": "วิลล่าหรู พูลวิลล่า ภูเก็ต",
+    "description": "วิลล่าส่วนตัวพร้อมสระว่ายน้ำ วิวทะเล หาดส่วนตัว บริการระดับ 5 ดาว",
+    "location": "กมลา, ภูเก็ต",
+    "price_per_night": 12000,
+    "sale_price": 45000000,
+    "listing_type": "both",
+    "rating": 5.0,
+    "review_count": 78,
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
+    ],
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "max_guests": 10,
+    "amenities": ["wifi", "pool", "parking", "air_conditioning", "kitchen", "beach_access", "gym"],
+    "host": {
+      "name": "คุณธนา",
+      "avatar": "https://randomuser.me/api/portraits/men/52.jpg",
+      "is_superhost": true
+    }
+  },
+  {
+    "id": "prop_005",
+    "title": "ทาวน์เฮ้าส์ขาย ลาดพร้าว",
+    "description": "ทาวน์เฮ้าส์ 3 ชั้น ใกล้ MRT ลาดพร้าว ตกแต่งใหม่ พร้อมเข้าอยู่",
+    "location": "ลาดพร้าว, กรุงเทพ",
+    "price_per_night": null,
+    "sale_price": 3500000,
+    "listing_type": "sale",
+    "rating": 4.5,
+    "review_count": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    ],
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "max_guests": 6,
+    "amenities": ["parking", "air_conditioning", "kitchen", "security"],
+    "host": {
+      "name": "คุณวิชัย",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "is_superhost": false
+    }
+  },
+  {
+    "id": "prop_006",
+    "title": "รีสอร์ทริมน้ำ กาญจนบุรี",
+    "description": "รีสอร์ทริมแม่น้ำแคว บรรยากาศเงียบสงบ ล้อมรอบด้วยธรรมชาติ มีกิจกรรมล่องแพ",
+    "location": "ไทรโยค, กาญจนบุรี",
+    "price_per_night": 2200,
+    "sale_price": null,
+    "listing_type": "rent",
+    "rating": 4.7,
+    "review_count": 189,
+    "images": [
+      "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800"
+    ],
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "max_guests": 2,
+    "amenities": ["wifi", "restaurant", "parking", "river_view"],
+    "host": {
+      "name": "คุณปราณี",
+      "avatar": "https://randomuser.me/api/portraits/women/33.jpg",
+      "is_superhost": true
+    }
+  }
+]

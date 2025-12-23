@@ -1,0 +1,27 @@
+# Hotel Project Rules
+
+## Tech Stack
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS + shadcn/ui
+
+## Design
+- สไตล์: Airbnb
+- Primary Color: #FF5A5F (ส้ม)
+- Background: White
+- Font: Inter (default from Next.js)
+
+## Naming Convention
+ใช้ `snake_case` ทั้งหมด ยกเว้น React Components:
+- ตัวแปร: `user_id`, `room_price`, `max_guests`
+- ไฟล์/โฟลเดอร์: `property_card.tsx`, `mock_data/`
+- ฟังก์ชัน: `get_top_price_room()`, `fetch_properties()`
+- React Components: `PascalCase` เช่น `PropertyCard`, `SearchBar`
+
+## Data
+- ใช้ JSON จาก `mock_data/` แทน API จริง
+- ไม่ต้องเชื่อมต่อ Database ในขั้นตอนนี้
+
+## AI Behavior
+- ถ้าไม่มั่นใจให้ถามก่อน
+- ตอบภาษาไทยเสมอ
